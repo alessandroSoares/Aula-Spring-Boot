@@ -1,3 +1,3 @@
 # Aula-Spring-Boot
 Projeto executado conforme aula do Udemy
-Outro teste
+Teste de pipeline
